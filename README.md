@@ -16,6 +16,8 @@ OpenCV (opencv-python)
 Install Dependencies
 
 pip install opencv-python
+
+
 🚀 Getting Started
 1. Clone the Repository
 bash
@@ -49,16 +51,21 @@ for (x, y, w, h) in face:
 cv2.imshow('Detected Faces', img)
 cv2.waitKey()
 break
+
+
 📷 Example Output
 When you run the script, the program will show the input image with rectangles drawn around detected faces.
+
 
 📚 Resources
 OpenCV Python Docs
 
 Face Detection with Haar Cascades
 
+
 🙌 Contribution
 Feel free to fork, contribute, or ask questions!
+
 
 📝 License
 This project is licensed under the MIT License.
